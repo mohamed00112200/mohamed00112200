@@ -1,61 +1,75 @@
-# 👋 Mohamed Lotfy
+# 👋 Hi, I'm Mohamed Lotfy
 
 ### Full-Stack .NET Developer | Generative AI Engineer | QA Automation Specialist
-
-<p align="center">
-  <a href="https://mohamed00112200.github.io/Mohamed/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/mohamed-lotfy-620518318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Lotfy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:mohamedmm6723423@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 ## 🚀 About Me
 
-Full-Stack .NET Developer with professional training from ITI in Full-Stack Web Development and Generative AI.
+I'm a passionate **Full-Stack .NET Developer** and **Generative AI Engineer** with professional training from **ITI (Information Technology Institute)** and hands-on experience building web applications, AI-powered systems, automation testing frameworks, and IoT solutions.
 
-Passionate about building scalable web applications, AI-powered systems, automation testing frameworks, and IoT solutions.
+I enjoy transforming ideas into real-world products using modern technologies, clean architecture, and scalable development practices.
 
-Currently focused on ASP.NET Core, AI integration, software architecture, cloud deployment, and modern testing practices.
+🎓 Computer Science Graduate — Zagazig University
+
+🏆 ITI Graduate — Full-Stack .NET & Generative AI
+
+🧪 DEPI Graduate — Software Testing Automation
+
+🌍 Open to Full-Stack .NET, Backend, AI Engineering, and QA Automation opportunities.
+
+### Connect With Me
+
+🌐 Portfolio:  
+https://mohamed00112200.github.io/Mohamed/
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/mohamed-lotfy-620518318/
+
+📧 Email:  
+mohamedmm6723423@gmail.com
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### Backend Development
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+<img src="https://skillicons.dev/icons?i=cs,js,html,css" />
 </p>
 
-* C#
-* ASP.NET Core
-* ASP.NET MVC
-* Web API
-* Entity Framework Core
-* LINQ
-* SQL Server
-* REST APIs
+### .NET Technologies
 
-### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Entity Framework Core
+- LINQ
+- SQL Server
+- REST APIs
+- Authentication & Authorization
+- Clean Architecture
+
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* Bootstrap
-* Responsive Design
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL Server
+- Database Design
+- Relational Databases
 
 ### AI & Generative AI
 
@@ -63,23 +77,31 @@ Currently focused on ASP.NET Core, AI integration, software architecture, cloud 
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-* Prompt Engineering
-* Retrieval-Augmented Generation (RAG)
-* LLM Integration
-* AI Chatbots
-* AI APIs
-* Ollama Integration
+- Generative AI
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- AI Chatbots
+- Ollama Integration
+- LLM Applications
 
 ### Software Testing
 
-* Selenium
-* Playwright
-* TestNG
-* Test Case Design
-* Bug Reporting
-* QA Documentation
-* SDLC
-* STLC
+<p>
+<img src="https://cdn.simpleicons.org/selenium/43B02A" width="48" />
+<img src="https://playwright.dev/img/playwright-logo.svg" width="48" />
+</p>
+
+- Selenium
+- Playwright
+- TestNG
+- Manual Testing
+- Automation Testing
+- SDLC
+- STLC
+- Test Case Design
+- Defect Reporting
+- QA Documentation
 
 ### Mobile & IoT
 
@@ -87,75 +109,55 @@ Currently focused on ASP.NET Core, AI integration, software architecture, cloud 
 <img src="https://skillicons.dev/icons?i=flutter,arduino" />
 </p>
 
-* Flutter
-* ESP32
-* Arduino
-* IoT Monitoring Systems
-* Embedded Systems
+- Flutter
+- ESP32
+- Arduino
+- Smart Systems
+- Real-Time Monitoring
+- IoT Integration
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
 </p>
-
-* Git & GitHub
-* Visual Studio
-* VS Code
-* Postman
-* JSON Server
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Science**
+### Bachelor of Computer Science
+
 Faculty of Computers & Artificial Intelligence
+
 Zagazig University
 
-GPA: 3.22 (Very Good with Honors)
+**GPA: 3.22 (Very Good with Honors)**
 
 ---
 
 ## 🏅 Certifications
 
-* ITI Professional Training Program
-* DEPI Software Testing Automation Track
-* MaharaTech Database Fundamentals
+- ITI Professional Training Program – Full-Stack .NET & Generative AI
+- Digital Egypt Pioneers Initiative (DEPI) – Software Testing Automation
+- MaharaTech – Database Fundamentals
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Areas
 
-### 🤖 AI Projects
+🤖 Generative AI Applications
 
-* GenAI Chatbot
-* ChatOllama API
+🌐 Full-Stack Web Development
 
-### 🧪 Automation Testing
+🧪 Automation Testing
 
-* PlayWright Automation
-* Selenium TestNG Framework
+☁️ REST APIs & Backend Systems
 
-### 🌐 Full-Stack Development
+📱 Mobile Applications
 
-* FundRise
-* Graduation Project
-* Zatoon
-
-### 🚦 IoT Systems
-
-* Smart Traffic Regulation System
-* Student System Administration
+🚦 IoT & Smart Monitoring Systems
 
 ---
 
-## 📫 Contact
-
-📧 Email: [mohamedmm6723423@gmail.com](mailto:mohamedmm6723423@gmail.com)
-
-🌐 Portfolio: https://mohamed00112200.github.io/Mohamed/
-
-💼 LinkedIn: https://www.linkedin.com/in/mohamed-lotfy-620518318/
-
-⭐ Always learning, building, and improving.
+### ⭐ Building scalable software, intelligent systems, and innovative solutions.
