@@ -1,16 +1,18 @@
-# 👋 Hi, I'm Mohamed Lotfy
+# 👋 Mohamed Lotfy
 
-### Full-Stack .NET Developer • Generative AI Engineer • QA Automation Enthusiast
+### Full-Stack .NET Developer | Generative AI Engineer | QA Automation Specialist
 
 <p align="center">
   <a href="https://mohamed00112200.github.io/Mohamed/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
   </a>
+
   <a href="https://www.linkedin.com/in/mohamed-lotfy-620518318/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Lotfy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:mohamedmm6723423@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -18,126 +20,142 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack .NET Developer passionate about building scalable web applications, AI-powered solutions, and automation testing frameworks.
+Full-Stack .NET Developer with professional training from ITI in Full-Stack Web Development and Generative AI.
 
-- 🎓 Computer Science Graduate — Zagazig University
-- 🏆 ITI Graduate — Full-Stack .NET & Generative AI
-- 🧪 DEPI Graduate — Software Testing Automation
-- 💡 Interested in AI, Backend Development, Clean Architecture, and Testing
-- 🌍 Open to Full-Stack .NET & AI Engineering Opportunities
+Passionate about building scalable web applications, AI-powered systems, automation testing frameworks, and IoT solutions.
+
+Currently focused on ASP.NET Core, AI integration, software architecture, cloud deployment, and modern testing practices.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Skills
 
-### Backend
+### Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### Frontend
+* C#
+* ASP.NET Core
+* ASP.NET MVC
+* Web API
+* Entity Framework Core
+* LINQ
+* SQL Server
+* REST APIs
+
+### Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### AI & Tools
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Bootstrap
+* Responsive Design
+
+### AI & Generative AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Testing
+* Prompt Engineering
+* Retrieval-Augmented Generation (RAG)
+* LLM Integration
+* AI Chatbots
+* AI APIs
+* Ollama Integration
+
+### Software Testing
+
+* Selenium
+* Playwright
+* TestNG
+* Test Case Design
+* Bug Reporting
+* QA Documentation
+* SDLC
+* STLC
+
+### Mobile & IoT
 
 <p>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TestNG-DD0031?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=flutter,arduino" />
 </p>
 
----
+* Flutter
+* ESP32
+* Arduino
+* IoT Monitoring Systems
+* Embedded Systems
 
-# 🔥 Featured Projects
+### Tools & Platforms
 
-## 🤖 AI Projects
-
-### 🧠 GenAI Chatbot
-AI-powered chatbot with intelligent response generation.
-
-### 🤖 ChatOllama API
-Integration with Ollama models using ASP.NET Core APIs.
-
----
-
-## 🧪 Automation Testing
-
-### 🎭 PlayWright Automation
-End-to-end testing automation using Playwright.
-
-### ✅ Selenium TestNG Framework
-Reusable automation framework with Selenium and TestNG.
-
----
-
-## 🌐 Full-Stack Development
-
-### 💰 FundRise
-Crowdfunding platform with authentication, admin approval workflows, and campaign management.
-
-### 🎓 Graduation Project
-Enterprise-level full-stack application demonstrating software engineering best practices.
-
-### 🏢 Zatoon
-Responsive full-stack web application with database integration.
-
----
-
-## 🚦 IoT & Smart Systems
-
-### 🚗 Smart Traffic Regulation System
-IoT-based traffic monitoring and regulation solution.
-
-### 🏫 Student System Administration
-Student management and administration platform.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamed00112200&show_icons=true&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed00112200&layout=compact&theme=tokyonight" />
-</p>
+* Git & GitHub
+* Visual Studio
+* VS Code
+* Postman
+* JSON Server
 
 ---
 
-# 🏅 Certifications
+## 🎓 Education
 
-- ITI – Full-Stack .NET & Generative AI
-- DEPI – Software Testing Automation
-- MaharaTech / ITI – Database Fundamentals
+**Bachelor of Computer Science**
+Faculty of Computers & Artificial Intelligence
+Zagazig University
 
----
-
-# 📫 Let's Connect
-
-<p align="center">
-  <a href="https://mohamed00112200.github.io/Mohamed/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-lotfy-620518318/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohamedmm6723423@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+GPA: 3.22 (Very Good with Honors)
 
 ---
 
-### ⭐ Building software, exploring AI, and continuously learning.
+## 🏅 Certifications
+
+* ITI Professional Training Program
+* DEPI Software Testing Automation Track
+* MaharaTech Database Fundamentals
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Projects
+
+* GenAI Chatbot
+* ChatOllama API
+
+### 🧪 Automation Testing
+
+* PlayWright Automation
+* Selenium TestNG Framework
+
+### 🌐 Full-Stack Development
+
+* FundRise
+* Graduation Project
+* Zatoon
+
+### 🚦 IoT Systems
+
+* Smart Traffic Regulation System
+* Student System Administration
+
+---
+
+## 📫 Contact
+
+📧 Email: [mohamedmm6723423@gmail.com](mailto:mohamedmm6723423@gmail.com)
+
+🌐 Portfolio: https://mohamed00112200.github.io/Mohamed/
+
+💼 LinkedIn: https://www.linkedin.com/in/mohamed-lotfy-620518318/
+
+⭐ Always learning, building, and improving.
